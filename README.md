@@ -51,6 +51,8 @@ Create a function that takes a list of items, removes all duplicate items and re
 the same sequential order as the old list (minus duplicates). (SET built-in function is not 
 allowed)
 
+python 3.7
+
 
 
 
